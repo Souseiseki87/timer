@@ -1,0 +1,52 @@
+body {
+    background-color: black;
+    font-family: 'Bobcat';
+    text-align: center;
+    margin: 0;
+
+}
+
+div.main    {
+    color: crimson;
+    font-size: 50px;
+    margin: 0 auto;
+    margin-top: 5%;
+    border: 10px;
+    width: 70%;
+    border-style: solid;
+    border-color: crimson;
+        
+}
+
+#headline {
+    display: none;
+}
+
+#countdown {
+    font-size: 100px;
+    line-height: normal;
+    margin-top: 0%;
+    margin-bottom: 5%;
+}
+
+#message {
+    font-size: 100px;
+    margin-top: 0%;
+    padding: 1%;
+    display: none;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 40px;
+    font-size: 40px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    width: 100%;
+    line-height: normal;
+    
+}
+
+p {
+    line-height: normal;
+}
